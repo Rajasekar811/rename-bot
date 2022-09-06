@@ -53,7 +53,7 @@ and larger works may be distributed under different terms and without source cod
    <p> Telegram </p>
   </a>
 <a href="https://t.me/c/Raja_sekar_811">
-   <p> YouTube </p>
+   <p> Telegram </p>
   </a>
 
 ## Credits
