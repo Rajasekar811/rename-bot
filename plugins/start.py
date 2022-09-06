@@ -13,8 +13,8 @@ async def start(client,message):
 	**Document Or Video** and enter new filenameto rename it__
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url=f"https://t.me/{SUPPORT_CH}") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url=f"https://youtube.com/c/{YOUTUBE}") ]  ]))
+	 [[ InlineKeyboardButton("Support 🇮🇳" ,url=f"https://t.me/Royal_moviz") ], 
+	[InlineKeyboardButton("Creator 🧐", url=f"https://t.me/Raja_sekar_811/c/{TELEGRAM}") ]  ]))
 
 
 @Client.on_message(filters.private &( filters.document | filters.audio | filters.video ))
